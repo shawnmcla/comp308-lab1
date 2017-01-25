@@ -1,0 +1,25 @@
+{
+  "name": "comp308-lab-1",
+  "version": "1.0.0",
+  "description": "Lab 1 for COMP308 at Centennial College",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnmcla/comp308-lab1.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "lab",
+    "1"
+  ],
+  "author": "Shawn McLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnmcla/comp308-lab1/issues"
+  },
+  "homepage": "https://github.com/shawnmcla/comp308-lab1#readme"
+}
